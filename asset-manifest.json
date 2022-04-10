@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hamari_ToDOs_List/static/css/main.60c9e3db.css",
+    "main.js": "/Hamari_ToDOs_List/static/js/main.a07d3950.js",
+    "static/js/787.f237a53c.chunk.js": "/Hamari_ToDOs_List/static/js/787.f237a53c.chunk.js",
+    "index.html": "/Hamari_ToDOs_List/index.html",
+    "main.60c9e3db.css.map": "/Hamari_ToDOs_List/static/css/main.60c9e3db.css.map",
+    "main.a07d3950.js.map": "/Hamari_ToDOs_List/static/js/main.a07d3950.js.map",
+    "787.f237a53c.chunk.js.map": "/Hamari_ToDOs_List/static/js/787.f237a53c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60c9e3db.css",
+    "static/js/main.a07d3950.js"
+  ]
+}
